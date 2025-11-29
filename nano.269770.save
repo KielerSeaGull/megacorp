@@ -1,0 +1,31 @@
+commit 307eb8e962a7aad9ecf3b60e95ceb6fd020ca453 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 22:57:54 2025 +0100 N: Revert M
+    
+    This reverts commit 1a682eb35eafe00a38b903e6433896c89326bfc9. commit 1a682eb35eafe00a38b903e6433896c89326bfc9 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 
+29 22:38:22 2025 +0100
+    M: Stash apply and drop commit e09c0650a4fede04ab8c8c9fca17afbd0609e258 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 22:32:37 2025 +0100 L: fix: bash->sh 
+commit 8daec549f42cde895f874a13637a7ad7061ef039 Merge: 3ad11d9 77cf4d1 Author: Joel <60885212+KielerSeaGull@users.noreply.github.com> Date: Sat Nov 29 21:53:32 2025 +0100
+    K: Merge pull request #1 from KielerSeaGull/add_scanner
+    
+    K: Added Scanner for Private_Data commit 77cf4d163f9034394a08098b3c51cc7db9cefccf Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 21:31:17 2025 +0100 K: 
+    Added Scanner for Private_Data
+    
+    L: Scan for Security Number
+    
+    M: Scan for TelefonNR commit 3ad11d96c12cc72c68f5c1b0fee8f64fca13da35 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 20:16:50 2025 +0100 J: redacted
+    
+    L: Added Pinkman to favs.md
+    
+    K: Heisenberg is added to favs.md commit 847fa0672a0ea38e3de1fa76a5ec7e3902db7c87 Merge: 288fb49 3a95a9f Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 
+19:52:38 2025 +0100
+    H: updatet Files - Merge Conflict --theirs --ours commit 288fb49521515db1e85dd27e3bb8cc997d741d4a Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 19:46:19 
+2025 +0100
+    G: Chaged Boot to SalesInc + Jayson to Carson commit 3a95a9fc4981a606034a56e2b9646295de7ea13a Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 19:43:35 2025 
++0100
+    F: Delete Jayson from all.csv and Boot.dev from partners.txt commit 1c92734ae56da3fa56fcbc83c9c14974412a602f Merge: 852aaa1 c2eca9c Author: KielerSeaGull 
+<joel@blaich.rocks> Date: Sat Nov 29 19:37:31 2025 +0100
+    E: fine, Greg can have this one commit c2eca9c795a417f26aaa2e12b1130e6822685829 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 19:03:40 2025 +0100 D: add 
+    jayson to customers
+commit 852aaa111b39d1caf2782a55e7c09bee275a8139 Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 19:01:36 2025 +0100 C: update customers and partners commit 
+9029e3e76e9942786f76b2d5b91aaa00185dc0bd Author: KielerSeaGull <joel@blaich.rocks> Date: Sat Nov 29 16:42:58 2025 +0100
+    B: recovery commit 0d16f954dfda53be7e875da6a23698c428cf68af Author: wagslane <lane.c.wagner@gmail.com> Date: Wed Jun 26 11:22:51 2024 -0600 A: The Founding of MegaCorp 
+    and the End of Art
